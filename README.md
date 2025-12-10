@@ -27,7 +27,7 @@ Inception is a project where you build a **Docker-based environment** from scrat
 - **WordPress** ✔️
 - **Adminer** ❌
 - **FTPS / custom app containers** ❌
-- **NO BONUS Services** ❌
+- **NO bonus services** ❌
 
 ---
 
@@ -38,6 +38,11 @@ Inception is a project where you build a **Docker-based environment** from scrat
 ```bash
 git clone https://github.com/shoganaix/42Inception
 cd Inception
+```
+
+2. Compile:
+
+```bash
 make
 ```
 
